@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="../css/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wall"></div>
+
+
+
+
+<div class="container">
+    <div class="topmenu">
+        <ul>
+            <li><a href="#">’›ÕÂ «’·Ì</a></li>
+            <li><a href="#">„‘ —Ì«‰</a></li>
+            <li><a href="#">«— »«ÿ »« „«</a></li>
+            <li><a href="#"> »·Ì€« </a></li>
+
+        </ul>
+    </div>
+
+    <div class="topbaner">
+        <div class="img">
+            <img src="../html/11.jpg" />
+            <img src="../html/44.png" />
+            <img src="../html/22.png" />
+        </div>
+        <div class="txt1">
+    <h1>¬„Ê“‘ html</h1>
+    <h3>www.hsha.ir</h3>
+</div>
+</div>
+        
+        <div class="baner1">
+            <h3>œÊ—Â «„Ê“‘Ì › Ê‘«Å</h3>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        </div>
+
+
+
+
+
+        <div class="baner2">
+            <h3>œÊ—Â «„Ê“‘Ì › Ê‘«Å</h3>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        </div>
+        <div class="baner3">
+            <h3>œÊ—Â «„Ê“‘Ì › Ê‘«Å</h3>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+            <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        </div>
+
+           
+
+    <div class="sideborder">
+        <h3>¬Œ—Ì‰ „ÿ«·»</h3>
+        <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+        <p>œÊ—Â «„Ê“‘ ›Ê Ê‘«Å œ— «Ì‰ ”«Ì </p>
+    </div>
+
+    <div class="banerleft">
+        <h3>¬„Ê“‘ Ê—œ Å—”</h3>
+        <div class="banerleft2">
+            <p>‰ÊÌ”‰œÂ:„Ã »Ì ‰’ÊÕÌ </p>
+            <p> ⁄œ«œ »«“œÌœ:1234</p>
+            <p>œ” Â:«„Ê“‘</p>
+
+        </div>
+
+        <div class="banerleft3">
+
+        </div>
+
+        <div class="banerleft4">
+            <p>
+                «Ì‰ œÊ—Â «“ «» œ«  « «‰ Â« »Â ÅÌ«œÂ ”«“Ì Ìò ‰—„ «›“«— ›—Ê‘ò«Â  Õ  ÊÌ‰œÊ“ „ÌÅ—œ«“œ. ‘„« œ—«Ì‰ œÊ—Â ê«„ »Â ê«„
+            </p>
+
+            <a href="#" class="morelink">«œ«„Â „ÿ·»</a>
+
+        </div>
+    </div>
+    <div class="foter">
+        <p>ÿ—«ÕÌ Ê ”«Œ :„Ã »Ì ‰’ÊÕÌ</p>
+    </div>
+
+
+
+    
+
+        
+        
+    
+
+        
+
+
+    
+    
+
+
+        
+        
+    
+
+
+</div>
+
+</body>
+</html>
